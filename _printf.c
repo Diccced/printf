@@ -1,0 +1,15 @@
+#include <stdarg.h>
+
+/**
+ * printf - prints a string in a formatted way
+ *
+ *@format:string to print (char *)
+ *@...:variadic parameters (unknown)
+ *
+ *return : number of characters printed
+ **/
+
+int _printf(const char *format, ...)
+{
+  //expressions;
+}
